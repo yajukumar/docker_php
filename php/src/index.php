@@ -1,3 +1,3 @@
 <?php
-echo 'This is index file';
+echo 'This is index file.';
 ?>
